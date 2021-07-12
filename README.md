@@ -1,2 +1,2 @@
 # pragna-potofolio
-Hello Im PragnaBattula web developer .This  is my porofolio.
+Hello Im PragnaBattula the web developer .This  is my porofolio.
