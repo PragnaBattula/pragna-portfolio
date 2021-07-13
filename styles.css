@@ -29,6 +29,7 @@ hr {
 .container-center {
     max-width: 580px;
     margin: auto;
+    padding: 2rem;
 }
 
 /* links */
@@ -76,7 +77,7 @@ hr {
 
 .navigation .nav-brand {
     font-weight: bold;
-    font-size: 1.1rem;      
+    font-size: 1.3rem;      
 }
 
 .navigation .nav-pills {
